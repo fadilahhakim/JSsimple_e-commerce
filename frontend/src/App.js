@@ -8,7 +8,7 @@ function App() {
     <>
       <Header></Header>
       <main>
-          <h1>welcome to dilshop</h1>
+          <h1>welcome to AimalCollection</h1>
       </main>
       <Footer></Footer>
     </>
