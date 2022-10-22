@@ -2,6 +2,7 @@ import { Container } from 'react-bootstrap';
 import './App.css';
 import Header from './components/Header'
 import Footer from './components/Footer'
+import HomePages from './pages/HomePages';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <Header></Header>
       <main>
           <Container>
-          <h1>welcome to AimalCollection</h1>
+          <HomePages></HomePages>
           </Container>
       </main>
       <Footer></Footer>
